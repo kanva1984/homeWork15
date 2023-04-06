@@ -20,4 +20,3 @@ public class ServiceStationImpl implements ServiceStation {
         System.out.println();
     }
 }
-

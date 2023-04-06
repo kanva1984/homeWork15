@@ -30,6 +30,7 @@ abstract class Transport {
     public void updateTyre() {
         System.out.println("Меняем покрышку");
     }
+
     public void checkWheels() {
         System.out.println("Обслуживаем " + getModelName());
         for (int i = 0; i < getWheelsCount(); i++) {

@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         Bicycle bicycle = new Bicycle("bicycle1", 2);
         Bicycle bicycle2 = new Bicycle("bicycle2", 2);
 
